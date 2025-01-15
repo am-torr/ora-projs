@@ -134,7 +134,7 @@ LOOP
                          
     END IF;
     
-END LOOP;
+END LOOP; 
 
 
 dbms_output.put_line('Total Principal: '||lv_currency||' '||lv_tot_principal||CHR(10)||'Total Interest: '||lv_currency||' '||lv_tot_interest||CHR(10)||'Total Amortization; '||lv_currency||' '||lv_tot_amort);
