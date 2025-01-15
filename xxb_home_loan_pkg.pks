@@ -20,6 +20,6 @@ interest NUMBER
 TYPE repricing_computation_t IS TABLE OF repricing_computation_r INDEX BY BINARY_INTEGER ;
 
 -- For demo purpose i'm returning parameters in different ways
-PROCEDURE main(p_cust_number NUMBER,p_loan_number VARCHAR2,p_insurance_amt NUMBER,p_period NUMBER,p_remaining_term NUMBER,p_rate NUMBER,p_out_monthly_amortization OUT NUMBER,p_in_out_outstanding_bal IN OUT NUMBER,p_out_interest OUT NUMBER,p_out_rec OUT xxb_home_loan_pkg.repricing_computation_r);
-
+PROCEDURE main(p_cust_number NUMBER,p_loan_number VARCHAR2,p_insurance_amt NUMBER,p_period NUMBER,p_remaining_term NUMBER,p_rate NUMBER,p_out_monthly_amortization OUT NUMBER,p_in_out_outstanding_bal IN OUT NUMBER,p_out_interest OUT NUMBER,p_out_rec OUT xxb_home_loan_pkg.repricing_computation_r); 
+ 
 END xxb_home_loan_pkg;
