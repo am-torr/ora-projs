@@ -23,5 +23,9 @@ Python Projects collection by am-torr - [go to MAIN branch - (click here)](https
 > Status - New<br/><br/>
 
 > [!NOTE]
-> Project Title - Shopee/Lazada web scraping<br/>
+> Project Title - Load and analyze LinkedIn Data Using Python libraries (Ex. Matplotlib, numPy, Pandas etc) <br/>
+> Status - New<br/><br/>
+
+> [!NOTE]
+> Project Title - Shopee/Lazada web scraping - Auto search<br/>
 > Status - New<br/><br/>
