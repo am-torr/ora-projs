@@ -11,3 +11,9 @@ General Checklist</br>
 - [ ] Format generated data</br>
 - [ ] Save generated data to a table</br>
 - [ ] Output the generated data from a table to a report [Front end]</br>
+
+
+
+# python-projs<br/>
+
+Python Projects collection by am-torr<br/><br/>
