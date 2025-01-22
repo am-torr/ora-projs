@@ -20,6 +20,7 @@ Python Projects collection by am-torr<br/><br/>
 > [!NOTE]
 > Project Title - Simple Image editing using Generative AI<br/>
 > Status - New<br/><br/>
+
 > [!NOTE]
 > Project Title - Shopee/Lazada web scraping<br/>
 > Status - New<br/><br/>
