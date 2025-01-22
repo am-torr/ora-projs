@@ -6,6 +6,7 @@ Oracle projects collection by am-torr - [go to MAIN branch - (click here)](https
 > Status - In Progress<br/>
 > This project computes mortgages based on rate and remaining period parameters.<br/>
 > Input in this example is based on monthly amortization from a local bank.<br/>
+> Later on, it will be used as a report.
 
 General Checklist</br>
 - [X] Collect and generate the data</br>
