@@ -10,10 +10,17 @@ General Checklist</br>
 - [X] Collect and generate the data</br>
 - [ ] Format generated data</br>
 - [ ] Save generated data to a table</br>
-- [ ] Output the generated data from a table to a report [Front end]</br>
+- [ ] Output the generated data from a table to a report (Oracle APEX or other front end)</br>
 
 
 
 # python-projs<br/>
-
 Python Projects collection by am-torr<br/><br/>
+> [!NOTE]
+> Project Title - Simple Image editing using Generative AI<br/>
+> Status - New<br/><br/>
+> [!NOTE]
+> Project Title - Shopee/Lazada web scraping<br/>
+> Status - New<br/><br/>
+
+
