@@ -16,7 +16,7 @@ General Checklist</br>
 
 
 # python-projs<br/>
-Python Projects collection by am-torr<br/><br/>
+Python Projects collection by am-torr - [go to MAIN branch - (click here)](https://github.com/am-torr/py-proj)<br/><br/>
 > [!NOTE]
 > Project Title - Simple Image Editing using Generative AI<br/>
 > Status - New<br/><br/>
