@@ -1,4 +1,4 @@
-# ora-projs<br/>
+# ora-proj<br/>
 Oracle projects collection by am-torr - [go to MAIN branch - (click here)](https://github.com/am-torr/ora-projs/tree/main)<br/><br/>
 > [!NOTE]
 > <b>Project Title - Mortgage Generator<b/><br/>
