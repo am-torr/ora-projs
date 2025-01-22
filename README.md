@@ -1,5 +1,5 @@
 # ora-projs<br/>
-Oracle projects collection by am-torr<br/><br/>
+Oracle projects collection by am-torr - [go to MAIN branch - (click here)](https://github.com/am-torr/ora-projs/tree/main)<br/><br/>
 > [!NOTE]
 > Project Title - Mortgage Generator<br/>
 > Latest Branch: [MORTGAGE-INIT - (click here)](https://github.com/am-torr/ora-projs/tree/mortgage-init)<br/>
@@ -18,7 +18,7 @@ General Checklist</br>
 # python-projs<br/>
 Python Projects collection by am-torr<br/><br/>
 > [!NOTE]
-> Project Title - Simple Image editing using Generative AI<br/>
+> Project Title - Simple Image Editing using Generative AI<br/>
 > Status - New<br/><br/>
 
 > [!NOTE]
