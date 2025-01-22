@@ -2,7 +2,7 @@
 Oracle projects collection by am-torr<br/><br/>
 > [!NOTE]
 > Project Title - Mortgage Generator<br/>
-> Latest Branch: [MORTGAGE-INIT](https://github.com/am-torr/ora-projs/tree/mortgage-init)<br/>
+> Latest Branch: [MORTGAGE-INIT - (click here)](https://github.com/am-torr/ora-projs/tree/mortgage-init)<br/>
 > Status - In Progress<br/>
 > This project computes mortgages based on rate and remaining period parameters.<br/>
 > Input in this example is based on monthly amortization from a local bank.<br/>
