@@ -1,7 +1,7 @@
 # ora-projs<br/>
-Oracle projects collection by am-torr<br/><br/>
+Oracle projects collection by am-torr - [go to MAIN branch - (click here)](https://github.com/am-torr/ora-projs/tree/main)<br/><br/>
 > [!NOTE]
-> Project Title - Mortgage Generator<br/>
+> <b>Project Title - Mortgage Generator<b/><br/>
 > Latest Branch: [MORTGAGE-INIT - (click here)](https://github.com/am-torr/ora-projs/tree/mortgage-init)<br/>
 > Status - In Progress<br/>
 > This project computes mortgages based on rate and remaining period parameters.<br/>
@@ -16,13 +16,11 @@ General Checklist</br>
 
 
 # python-projs<br/>
-Python Projects collection by am-torr<br/><br/>
+Python Projects collection by am-torr - [go to MAIN branch - (click here)](https://github.com/am-torr/py-proj)<br/><br/>
 > [!NOTE]
-> Project Title - Simple Image editing using Generative AI<br/>
+> Project Title - Simple Image Editing using Generative AI<br/>
 > Status - New<br/><br/>
 
 > [!NOTE]
 > Project Title - Shopee/Lazada web scraping<br/>
 > Status - New<br/><br/>
-
-
