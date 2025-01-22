@@ -20,7 +20,7 @@ General Checklist</br>
 Python Projects collection by am-torr - [go to MAIN branch - (click here)](https://github.com/am-torr/py-proj)<br/><br/>
 > [!NOTE]
 > Project Title - Simple Image Editing using Generative AI<br/>
-> Description - <br/>
+> Description - Update an image using Pillow or Tkinter etc.<br/>
 > Status - New<br/><br/>
 
 > [!NOTE]
