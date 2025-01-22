@@ -3,10 +3,10 @@ Oracle projects collection by am-torr - [go to MAIN branch - (click here)](https
 > [!NOTE]
 > <b>Project Title - Mortgage Generator<b/><br/>
 > Latest Branch: [MORTGAGE-INIT - (click here)](https://github.com/am-torr/ora-projs/tree/mortgage-init)<br/>
+> Description - This project computes mortgages based on rate and remaining period parameters.<br/>
+> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Input in this example is based on monthly amortization from a local bank.<br/>
+> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Later, it will be used as a report.
 > Status - In Progress<br/>
-> This project computes mortgages based on rate and remaining period parameters.<br/>
-> Input in this example is based on monthly amortization from a local bank.<br/>
-> Later on, it will be used as a report.
 
 General Checklist</br>
 - [X] Collect and generate the data</br>
@@ -20,12 +20,15 @@ General Checklist</br>
 Python Projects collection by am-torr - [go to MAIN branch - (click here)](https://github.com/am-torr/py-proj)<br/><br/>
 > [!NOTE]
 > Project Title - Simple Image Editing using Generative AI<br/>
+> Description - 
 > Status - New<br/><br/>
 
 > [!NOTE]
-> Project Title - Load and analyze LinkedIn Data Using Python libraries (Ex. Matplotlib, numPy, Pandas etc) <br/>
+> Project Title - Load and analyze LinkedIn Data<br/>
+> Description -  Output data using Python libraries (Ex. Matplotlib, NumPy, Pandas, etc)
 > Status - New<br/><br/>
 
 > [!NOTE]
 > Project Title - Shopee/Lazada web scraping - Auto search<br/>
+> Description - 
 > Status - New<br/><br/>
