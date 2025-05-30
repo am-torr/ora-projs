@@ -1,5 +1,4 @@
-create or replace PACKAGE xxb_home_loan_pkg 
-AUTHID DEFINER -- samp only
+create or replace PACKAGE xxb_home_loan_pkg
 AS  
 /*******************************************************************************
 ***  Title: Arvin T Prj 01 - Monthly Amortization computation
