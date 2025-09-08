@@ -16,5 +16,5 @@ Oracle projects collection by am-torr - [go to MAIN branch - (click here)](https
 - [X] define github actions trigger </br>
 - [ ] define github actions build ticket creation</br>
 - [ ] connect slack for deployment notifications</br>
-- [ ] Output the generated data from a table to a report (Oracle APEX or other front end)</br>
+- [ ] connect the deployment tool</br>
 
