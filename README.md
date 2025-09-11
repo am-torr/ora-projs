@@ -18,13 +18,13 @@ Oracle projects collection by am-torr - [go to MAIN branch - (click here)](https
 - [ ] connect slack for deployment notifications</br>
 - [ ] connect the deployment tool (AWS) </br>
 
-**Challenges encountered:**
+**Challenges encountered:** </br>
 - [X] getting the image push to work, not working on cloudshell, solution is to install aws cli
 - [X] aws cli conflict with docker, fixed by configuring the correct paths in powershell
 - [X] setting the correct policies in AWS
 - [X] secret not working on GitHub due to bug
 
-**Current Progress:**
+**Current Progress:** </br>
 Image has been pushed to repository:
 <img width="929" height="246" alt="image" src="https://github.com/user-attachments/assets/6c19d38c-1789-4e9e-b8c0-62ef7333a2a8" />
 
