@@ -16,5 +16,7 @@ Oracle projects collection by am-torr - [go to MAIN branch - (click here)](https
 - [X] define github actions trigger </br>
 - [ ] define github actions build ticket creation</br>
 - [ ] connect slack for deployment notifications</br>
-- [ ] connect the deployment tool</br>
+- [ ] connect the deployment tool (AWS) </br>
 
+**Current Progress:**
+<img width="929" height="246" alt="image" src="https://github.com/user-attachments/assets/6c19d38c-1789-4e9e-b8c0-62ef7333a2a8" />
