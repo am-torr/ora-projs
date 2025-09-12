@@ -22,7 +22,7 @@ Oracle projects collection by am-torr - [go to MAIN branch - (click here)](https
 - PowerShell
 - VSCode
 - Github
-- AWS
+- AWS (EC2, ECR, IAM, CloudShell)
 - AWSCLI
 - Docker
 
@@ -64,6 +64,6 @@ Image has been pushed to repository:
 --
 
 > [!NOTE]
-> **Project:** ETL Pipeline
-> **Description:** 
-> **Status:** Design/Planning stage<br/>
+> **Project:** ETL Pipeline</br>
+> **Description:** Design/Planning stage</br> 
+> **Status:** Open<br/>
