@@ -23,6 +23,8 @@ Oracle projects collection by am-torr - [go to MAIN branch - (click here)](https
 - VSCode
 - Github
 - AWS
+- AWSCLI
+- Docker
 
 **Challenges encountered:** </br>
 - [X] getting the image push to work, not working on cloudshell, solution is to install aws cli
@@ -37,7 +39,7 @@ Image has been pushed to repository:
 --
 
 > [!NOTE]
-> **Project:** Mortgage Generator<b/><br/>
+> **Project:** Mortgage Generator<br/>
 > Latest Branch: [MORTGAGE-INIT - (click here)](https://github.com/am-torr/ora-projs/tree/mortgage-init)<br/>
 > Description - This project computes mortgages based on rate and remaining period parameters.<br/>
 > &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Input in this example is based on monthly amortization from a local bank.<br/>
@@ -55,7 +57,13 @@ Image has been pushed to repository:
 - SQL Developer
 - Github
 
-**Challenges encountered:** </br>
+**Challenges encountered:**</br>
 - [X] gathering formula
 - [X] transforming the formula to code
 
+--
+
+> [!NOTE]
+> **Project:** ETL Pipeline
+> **Description:** 
+> **Status:** Design/Planning stage<br/>
