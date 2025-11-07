@@ -63,7 +63,8 @@ Oracle Data Modeler | Oracle SQL Developer | GitHub
 
 > [!NOTE]  
 > **Project:** ETL Pipeline (Planning Stage) <br/>  
-> **Description:** Concept design for a daily ETL pipeline that extracts and validates data from multiple sources using PL/SQL and Python with OpenSearch visualization. <br/>  
+> <img width="4200" height="982" alt="etl_architecture_a_torralba" src="https://github.com/user-attachments/assets/fa5ace48-a97b-4cc2-ae5d-374f1cf7fe2c" />
+**Description:** Concept design for a daily ETL pipeline that extracts and validates data from multiple sources using PL/SQL and Python with OpenSearch visualization. <br/>  
 > **Benefits:** <br/>  
 > &emsp; - Centralizes data processing logic for future automation <br/>  
 > &emsp; - Improves visibility of data integrity via log validation dashboards <br/>  
